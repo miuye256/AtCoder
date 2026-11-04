@@ -6,6 +6,8 @@ C#で取り組んだAtCoderの学習記録です。
 
 [AtCoder Beginners Selection（ABS）](https://atcoder.jp/contests/abs)の全11問を解き、ACしました。各フォルダの`Program.cs`に解答を保存しています。
 
+ルートの`ABC081B.cs`にも、ABC081Bの別の実装を保存しています。
+
 | 問題 | 解答フォルダ |
 | --- | --- |
 | [PracticeA — Welcome to AtCoder](https://atcoder.jp/contests/abs/tasks/practice_1) | [abs/practicea](abs/practicea) |
