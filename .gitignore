@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+.DS_Store
+
+# ローカルでの試作用ファイル
+/abs/abc086c/Test.cs
