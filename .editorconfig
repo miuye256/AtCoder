@@ -1,0 +1,6 @@
+root = true
+
+[*.cs]
+indent_style = space
+indent_size = 4
+csharp_space_after_keywords_in_control_flow_statements = true
