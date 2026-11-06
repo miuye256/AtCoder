@@ -1,4 +1,12 @@
 {
   "chat.disableAIFeatures": false,
-  "csharp.debug.console": "integratedTerminal"
+  "csharp.debug.console": "integratedTerminal",
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "csharp": false
+  },
+  "github.copilot.nextEditSuggestions.enabled": false
 }
